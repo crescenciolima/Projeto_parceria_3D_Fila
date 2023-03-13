@@ -3,7 +3,7 @@ Projeto em parceria com a 3D Fila com objetivo de desenvolver objetos em 3D para
 
 Neste repositório você vai encontrar os modelos produzidos durante os desenvolvimento do projeto no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) campus Vitória da Conquista. 
 
-Vídeo com a apresentação do projeto: <a href="https://www.instagram.com/reel/Cpk-rx7rse2/?utm_source=ig_web_copy_link" target="blank">Apresentação</a><br>
+Apresentação do projeto: <a href="https://www.instagram.com/reel/Cpk-rx7rse2/?utm_source=ig_web_copy_link" target="blank">Vídeo</a><br>
 Instagram da 3D Fila: <a href="https://www.instagram.com/3dfila_brasil/" target="blank">@3dfila_brasil</a><br>
 
 
