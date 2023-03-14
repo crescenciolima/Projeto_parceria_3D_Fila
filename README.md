@@ -11,14 +11,13 @@ Requisitos
 ---------------------------
 
   * Autodesk Fusion 360
-  * Prusa Slicer
-  * Cura
+  * PrusaSlicer ou Ultimaker Cura
 
 
 Download
 ---------------------------
 
-Clone the project
+Clone do project
 
         gitclone https://github.com/crescenciolima/Projeto_parceria_3D_Fila.git
 
